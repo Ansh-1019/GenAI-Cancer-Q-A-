@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# Chroma / Vector DB
+chroma_knowledge_base/
+
+# Large files
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db

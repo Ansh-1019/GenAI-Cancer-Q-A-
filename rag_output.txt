@@ -1,0 +1,253 @@
+QUERY: 'What safety concerns are associated with immune checkpoint inhibitors?'
+================================================================================
+GENERATED ANSWER (Powered by Gemini):
+The provided text mentions several safety concerns associated with immune checkpoint inhibitors (ICIs), particularly with the combination of nivolumab and ipilimumab:
+
+*   **High-grade toxicity:** Nivolumab plus ipilimumab was associated with 46% grade III-IV toxicity.
+*   **Treatment-related deaths:** The combination of nivolumab plus ipilimumab had a 1.5% rate of treatment-related deaths.
+*   **Immune-related toxicity:** Patients may stop treatment due to immune-related toxicity.
+*   **Specific adverse events:** Transaminitis and diarrhoea are mentioned as adverse events requiring particular attention.
+*   **Management complexity:** Patients experiencing toxicity require expert guidance and support from a multidisciplinary team, especially when considering re-challenge of ICIs after significant toxicity or continuing on single-agent therapy if the combination caused issues.
+================================================================================
+
+--- SOURCE DOCUMENTS (Context Used from ChromaDB) ---
+
+[Source 1] File: ESMO Clinical Guideline
+  Content Snippet: "Phase III trial of PD-1 immune checkpoint inhibitors in adjuvant RCC
+Study N Experimental 
+arm
+Primary 
+endpoint
+Risk groups DFS (mo)
+Median (95% CI) 
+HR
+OS (mo.)
+Median (95% CI) 
+HR
+Keynote-564
+NCT03..."
+  Full Content:
+Phase III trial of PD-1 immune checkpoint inhibitors in adjuvant RCC
+Study N Experimental 
+arm
+Primary 
+endpoint
+Risk groups DFS (mo)
+Median (95% CI) 
+HR
+OS (mo.)
+Median (95% CI) 
+HR
+Keynote-564
+NCT03142334
+Median follow-up 
+of 30.1 mo. [483]
+994 PEMBRO 200 
+mg IV Q3W 
+(17 cycles) vs.
+placebo
+DFS in the 
+ITT by IR
+Intermediate-
+high: pT2 grade 
+4 or sarcomatoid; 
+pT3 any grade
+High: pT4 any 
+grade, pN1
+M1 NED: cM0 
+after resection of 
+oligometastatic 
+disease < 12 mo.
+(ITT)
+PEMBRO: NR (NE)
+PLACEBO: NR (NE)
+HR: 0.63 (95% CI: 
+0.50-0.80))
+P < 0.002
+DFS at 24 mo.:
+PEMBRO: 78.3%
+PLACEBO: 67.3%
+(ITT)
+PEMBRO: NR (NE)
+PLACEBO: NR (NE)
+HR: 0.52 (95% CI: 
+0.31-0.86)
+not significant
+alive at 30 mo.:
+PEMBRO: 95.7%
+PLACEBO: 91.4%
+
+[Source 2] File: ESMO Clinical Guideline
+  Content Snippet: "control rate than TKI monotherapies. In phase II trial, ORR of 51 % of combination of erlotinib and bevacizumab 
+[614]. Other trial expressed a favorable response to ICI/TKI combinational therapy comp..."
+  Full Content:
+control rate than TKI monotherapies. In phase II trial, ORR of 51 % of combination of erlotinib and bevacizumab 
+[614]. Other trial expressed a favorable response to ICI/TKI combinational therapy comparred to bevacizumab 
+plus erlotinib [92].
+Succinate dehydrogenase (SDH)-deficient RCC has a low risk of metastasis (12 %) with exception of high-grade 
+with risk 70 %. Due to rarity of disease, no evidence for systemic therapy [614].
+Anaplastic lymphoma kinase (ALK)-rearranged RCC, there are some reports of the efficacy of ALK inhibitors, e.g. 
+entrectinib [614]. ELOC (formerly TCEB1)-mutated RCC doesn’t exhibit cinically aggressive behaviour [614]. 
+There is no data that indicates a recommendation for one treatment over another. 
+7.4.4.4 Treatment of hereditary RCC
+7.4.4.4.1 von-Hippel-Lindau-disease-associated RCC
+Patients with VHL disease often develop RCC and tumours and cysts in other organs including adrenal 
+glands, CNS, retinal haemangioblastomas, and pancreas, and commonly undergo several surgical resections 
+in their lifetime. In VHL disease, belzutifan, a HIF-2α inhibitor, has been approved by the US Food and Drug 
+Administration (FDA, August 2021) for the treatment of ccRCC and other neoplasms associated with VHL for
+
+[Source 3] File: ESMO Clinical Guideline
+  Content Snippet: "Kettering Cancer Center; NE = non-estimable; NR = not reached; NIVO = nivolumab; OS = overall survival; 
+PEMBRO = pembrolizumab; PFS = profession-free survival; PITT = PFS intention-to-treat; PO = by ..."
+  Full Content:
+Kettering Cancer Center; NE = non-estimable; NR = not reached; NIVO = nivolumab; OS = overall survival; 
+PEMBRO = pembrolizumab; PFS = profession-free survival; PITT = PFS intention-to-treat; PO = by mouth; 
+Pts = patients; QD = once a day; Q2W = every 2 weeks; Q3W = every 3 weeks; SUN = sunitinib; wk = weeks.
+Patients who stop nivolumab plus ipilimumab because of toxicity require expert guidance and support from a 
+multidisciplinary team before re-challenge can occur (LE: 1). Patients who do not receive the full four doses of 
+ipilimumab due to toxicity should continue on single-agent nivolumab, where safe and feasible (LE: 4).
+Treatment past progression with nivolumab plus ipilimumab can be justified but requires close scrutiny and the 
+support of an expert multidisciplinary team [499, 581] (LE: 1).
+Patients who stop TKI and IO due to immune-related toxicity can receive single-agent TKI once the 
+adverse events has resolved (LE: 1). Adverse event management, including transaminitis and diarrhoea, require 
+particular attention as both agents may be causative. Expert advice should be sought on re-challenge of ICIs 
+after significant toxicity (LE: 4). Treatment past progression on axitinib plus pembrolizumab or nivolumab plus 
+cabozantinib requires careful consideration as it is biologically distinct from treatment past progression on 
+ipilimumab and nivolumab.
+Based on Panel consensus, nivolumab plus ipilimumab, pembrolizumab plus axitinib and nivolumab plus 
+cabozantinib and lenvatinib plus pembrolizumab should be administered in centres with experience of immune 
+combination therapy and appropriate supportive care within the context of a multidisciplinary team (LE: 4).
+
+[Source 4] File: ESMO Clinical Guideline
+  Content Snippet: "sunitinib. The primary endpoint population focused on the IMDC intermediate- and poor-risk population where 
+the combination demonstrated an OS benefit (HR: 0.63, 95% CI: 0.44-0.89) which led to regul..."
+  Full Content:
+sunitinib. The primary endpoint population focused on the IMDC intermediate- and poor-risk population where 
+the combination demonstrated an OS benefit (HR: 0.63, 95% CI: 0.44-0.89) which led to regulatory approval 
+[499] and a paradigm shift in the treatment of mRCC [565] . Results from CheckMate 214 further established 
+that the combination of ipilimumab and nivolumab was associated with higher response rates (RR) (39% in 
+the ITT population), complete RR (8% in the ITT population [central radiology review]) and duration of response 
+compared to sunitinib. Progression-free survival did not achieve the pre-defined endpoint. The exploratory 
+analysis of OS data in the PD-L1-positive population was 0.45 (95% CI: 0.29-0.41).
+A recent update with 60-month data shows ongoing benefits for the immune combination with 
+independently assessed complete response rates of 11% and a HR for OS in the IMDC intermediate- and poor-
+risk group of 0.68 (0.58-0.81) [520]. However, this complete response rate has not been consistent across trials 
+for this combination (the Cosmic313 study showed complete response rates of 3% [566]).
+In CheckMate 214 the 60-months OS probability was 43% for ipilimumab plus nivolumab vs. 31% 
+for sunitinib, respectively [567] . In this update the IMDC good-risk group did not continue to perform better with 
+sunitinib although this effect occurs due to a late overlap of the Kaplan-Meier curves (HR for OS: 0.94 [95% CI: 
+0.65-1.37]) [567]. Nivolumab plus ipilimumab was associated with 46% grade III-IV toxicity and 1.5% treatment-
+related deaths. It should therefore be administered in centres with experience of immune combination therapy 
+and appropriate supportive care within the context of a multidisciplinary team (LE: 4). PD-L1 biomarker is 
+currently not used to select patients for therapy.
+The frequency of steroid use has generated controversy and further analysis, as well as real world
+
+[Source 5] File: ESMO Clinical Guideline
+  Content Snippet: "was associated with higher rates of progression but no detrimental effect was seen on OS [558] . Intermittent 
+therapy has not been tested with VEFG/PD-1 combinations, therefore its application in the..."
+  Full Content:
+was associated with higher rates of progression but no detrimental effect was seen on OS [558] . Intermittent 
+therapy has not been tested with VEFG/PD-1 combinations, therefore its application in the modern 1st line 
+setting is unknown, but extrapolation suggests it should be safe.
+
+[Source 6] File: ESMO Clinical Guideline
+  Content Snippet: "Cell Tumor.Sci Rep. 2019;9(1):14551.
+90. Gelderblom H, Cropet C, Chevreau C, et al. Nilotinib in locally
+advanced pigmented villonodular synovitis: a multicentre, open-label,
+single-arm, phase 2 trial..."
+  Full Content:
+Cell Tumor.Sci Rep. 2019;9(1):14551.
+90. Gelderblom H, Cropet C, Chevreau C, et al. Nilotinib in locally
+advanced pigmented villonodular synovitis: a multicentre, open-label,
+single-arm, phase 2 trial.Lancet Oncol. 2018;19(5):639-648.
+91. Shi Y , Cai Q, Jiang Y , et al. Activity and safety of geptanolimab (GB226)
+for patients with unresectable, recurrent, or metastatic alveolar soft
+part sarcoma: a phase II, single-arm study. Clin Cancer Res .
+2020;26(24):6445-6452.
+92. Florou V, Rosenberg AE, Wieder E, et al. Angiosarcoma patients treated
+with immune checkpoint inhibitors: a case series of seven patients from
+a single institution.J Immunother Cancer. 2019;7(1):213.
+93. Tap WD, Gelderblom H, Palmerini E, et al. Pexidartinib versus placebo
+for advanced tenosynovial giant cell tumour (ENLIVEN): a randomised
+phase 3 trial.Lancet. 2019;394(10197):478-487.
+94. Mir O, Brodowicz T, Italiano A, et al. Safety and efﬁcacy of regorafenib
+in patients with advanced soft tissue sarcoma (REGOSARC): a rand-
+omised, double-blind, placebo-controlled, phase 2 trial.Lancet Oncol.
+2016;17(12):1732-1742.
+95. Penel N, Mir O, Wallet J, et al. A double-blind placebo-controlled
+randomized phase II trial assessing the activity and safety of regor-
+afenib in non-adipocytic sarcoma patients previously treated with
+both chemotherapy and pazopanib.Eur J Cancer. 2020;126:45-55.
+96. Gross AM, Wolters PL, Dombi E, et al. Selumetinib in children with
+inoperable plexiform neuroﬁbromas. N Engl J Med. 2020;382(15):
+1430-1442.
+97. Stacchiotti S, Simeone N, Lo Vullo S, et al. Activity of sirolimus in
+patients with progressive epithelioid hemangioendothelioma: a case-
+series analysis within the Italian Rare Cancer Network. Cancer.
+2021;127(4):569-576.
+98. Sanﬁlippo R, Jones RL, Blay JY , et al. Role of chemotherapy, VEGFR
+inhibitors, and mTOR inhibitors in advanced perivascular epithelioid
+cell tumors (PEComas).Clin Cancer Res. 2019;25(17):5295-5300.
+
+[Source 7] File: ESMO Clinical Guideline
+  Content Snippet: "RENAL CELL CARCINOMA - LIMITED UPDATE MARCH 2024
+60
+7.4.4.1.3.1 Summary of evidence and recommendation for targeted therapy in RCC with sarcomatoid features
+Summary of evidence LE
+Immune checkpoint in..."
+  Full Content:
+RENAL CELL CARCINOMA - LIMITED UPDATE MARCH 2024
+60
+7.4.4.1.3.1 Summary of evidence and recommendation for targeted therapy in RCC with sarcomatoid features
+Summary of evidence LE
+Immune checkpoint inhibitor combination therapy is superior to sunitinib in terms of PFS and OS in trial 
+subset analysis of clear-cell RCC with sarcomatoid features.
+2a
+Recommendation Strength rating
+Offer immune checkpoint inhibitor combination therapy for advanced clear cell metastatic 
+renal carcinoma with sarcomatoid features.
+Weak
+7.4.4.2 Treatment of patients with non-clear-cell metastatic RCC (general considerations)
+For the sake of historical purposes, the Panel recognises the use of Non-cc-mRCC but will where possible refer 
+to the distinct subtype. This is a heterogenous group including papillary, chromophobe and other rare tumours 
+with a widely differing tumour biology. Patients with non-cc-mRCC should therefore be referred to a clinical trial, 
+where appropriate.While no phase III trials of patients with non-cc-mRCC have been reported it is increasingly 
+recognised to study specific subtypes which have a higher incidence than other non-ccRCC. As papillary RCC 
+(pRCC) comprise the majority of tumours defined as non-ccRCC, most of the evidence is available for this 
+subtype, either from trials specifically selecting pRCC or having included a high percentage.
+7.4.4.2.1 Treatment of patients with papillary metastatic RCC
+There are small single-arm trials for sunitinib and everolimus [593-597]. Both these agents have been widely given 
+in pRCC, but more recent data suggests cabozantinib and other combinations may be preferable [598, 599].
+For pRCC new evidence is available from the SWOG PAPMET randomised phase II trial which compared 
+sunitinib to cabozantinib, crizotinib and savolitinib in 152 patients with papillary mRCC [598]. Progression- free 
+survival was longer in patients in the cabozantinib group (median 9.0 months, 95% CI: 6-12) than in the sunitinib
+
+[Source 8] File: ESMO Clinical Guideline
+  Content Snippet: "subset analyses, and are too small for definitive conclusions [560, 584].
+The use of mTOR inhibitors can be considered in VEGF-targeted therapy refractory disease but has been 
+outperformed by other V..."
+  Full Content:
+subset analyses, and are too small for definitive conclusions [560, 584].
+The use of mTOR inhibitors can be considered in VEGF-targeted therapy refractory disease but has been 
+outperformed by other VEGF-targeted therapies in mRCC and belzutifan [585]. Drug choice in the third-line 
+setting, after immune checkpoint inhibitor combinations and subsequent VEGF-targeted therapy, is unknown. 
+The Panel recommends a subsequent agent which is approved in VEGF-refractory disease, with the exception of 
+re-challenge with immune checkpoint blockade. Cabozantinib is the only agent in VEGF-refractory disease with 
+RCT data showing a survival advantage and should be used preferentially [518]. Axitinib has positive PFS data 
+in VEGF- refractory disease. Both sorafenib and everolimus have been outperformed by other agents in VEGF-
+refractory disease and are therefore less attractive [585] . The lenvatinib plus everolimus combination appears 
+superior to everolimus alone and has been granted EMA regulatory approval based on randomised phase II data. 
+This is an alternative despite the availability of phase II data only [548]. As shown in a study which also included 
+patients on ICIs, tivozanib provides PFS superiority over sorafenib in VEGF-refractory disease [586].
+7.4.4.1.2 Summary of evidence and recommendations for immunotherapy in cc-mRCC
+Summary of evidence LE
+Treatment-naïve patients
+Currently, PD-L1 expression is not used for patient selection. 2b
+The combination of nivolumab and ipilimumab in treatment-naïve patients with cc-mRCC of IMDC 
+intermediate- and poor risk demonstrated OS and ORR benefits compared to sunitinib alone.
+1b
+The combination of pembrolizumab plus axitinib, lenvatinib plus pembrolizumab and nivolumab plus 
+cabozantinib in treatment-naïve patients with cc-mRCC demonstrated PFS, OS and ORR benefits 
+compared to sunitinib in the ITT population.
+1b
+The combination of pembrolizumab plus axitinib, lenvatinib plus pembrolizumab and nivolumab plus
