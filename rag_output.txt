@@ -1,13 +1,12 @@
 QUERY: 'What safety concerns are associated with immune checkpoint inhibitors?'
 ================================================================================
 GENERATED ANSWER (Powered by Gemini):
-The provided text mentions several safety concerns associated with immune checkpoint inhibitors (ICIs), particularly with the combination of nivolumab and ipilimumab:
+Based on the provided text, the following safety concerns are associated with immune checkpoint inhibitors:
 
-*   **High-grade toxicity:** Nivolumab plus ipilimumab was associated with 46% grade III-IV toxicity.
-*   **Treatment-related deaths:** The combination of nivolumab plus ipilimumab had a 1.5% rate of treatment-related deaths.
-*   **Immune-related toxicity:** Patients may stop treatment due to immune-related toxicity.
-*   **Specific adverse events:** Transaminitis and diarrhoea are mentioned as adverse events requiring particular attention.
-*   **Management complexity:** Patients experiencing toxicity require expert guidance and support from a multidisciplinary team, especially when considering re-challenge of ICIs after significant toxicity or continuing on single-agent therapy if the combination caused issues.
+*   The combination of nivolumab plus ipilimumab was associated with **46% grade III-IV toxicity** and **1.5% treatment-related deaths**.
+*   Patients may need to stop treatment due to **toxicity** or **immune-related toxicity**.
+*   Specific adverse events that require attention include **transaminitis** and **diarrhea**.
+*   Expert guidance and support from a multidisciplinary team are required for managing toxicity and considering re-challenge after significant toxicity.
 ================================================================================
 
 --- SOURCE DOCUMENTS (Context Used from ChromaDB) ---

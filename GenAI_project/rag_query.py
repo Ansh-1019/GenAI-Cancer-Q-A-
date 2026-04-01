@@ -131,12 +131,24 @@ def run_rag_query_to_file(query: str, filename="rag_output.txt"):
     return result
 
 # --- 8. Execute the Suggested Query (Modified to use the new function) ---
-suggested_query = "What safety concerns are associated with immune checkpoint inhibitors?"
+# suggested_query = "What safety concerns are associated with immune checkpoint inhibitors?"
 
-run_rag_query_to_file(suggested_query)
+# run_rag_query_to_file(suggested_query)
 
 # --- 8. Execute the Suggested Query ---
 
 # Changed to a simpler query for initial testing confidence
 # suggested_query = "What is the strong recommendation regarding partial nephrectomy?"
 # run_rag_query(suggested_query)
+
+def run_rag_query_ui(query: str):
+    result = qa_chain.invoke({"query": query})
+    answer = result["result"]
+    sources = [
+        {
+            "content": doc.page_content[:500],
+            "metadata": doc.metadata
+        }
+        for doc in result["source_documents"]
+    ]
+    return answer, sources

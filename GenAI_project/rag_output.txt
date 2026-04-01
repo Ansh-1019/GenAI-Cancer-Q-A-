@@ -1,0 +1,11 @@
+================================================================================
+GENERATED ANSWER (Powered by Gemini):
+Partial nephrectomy is the **preferred treatment for T1a renal masses**. It is also **recommended for T1b renal masses**.
+
+Furthermore, it is strongly recommended for patients with:
+*   Bilateral renal masses
+*   Solitary kidney
+*   Pre-existing chronic kidney disease
+================================================================================
+
+--- SOURCE DOCUMENTS (Context Used from ChromaDB) ---
