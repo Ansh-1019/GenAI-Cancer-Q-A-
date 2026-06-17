@@ -1,252 +1,198 @@
-QUERY: 'What safety concerns are associated with immune checkpoint inhibitors?'
 ================================================================================
 GENERATED ANSWER (Powered by Gemini):
-Based on the provided text, the following safety concerns are associated with immune checkpoint inhibitors:
+Based on the provided text, there isn't a statement explicitly labeled as a "strong recommendation" regarding partial nephrectomy.
 
-*   The combination of nivolumab plus ipilimumab was associated with **46% grade III-IV toxicity** and **1.5% treatment-related deaths**.
-*   Patients may need to stop treatment due to **toxicity** or **immune-related toxicity**.
-*   Specific adverse events that require attention include **transaminitis** and **diarrhea**.
-*   Expert guidance and support from a multidisciplinary team are required for managing toxicity and considering re-challenge after significant toxicity.
+However, the "Summary of evidence and recommendations for radical and partial nephrectomy techniques" section states:
+
+*   "Partial nephrectomy can be performed, either by open-, pure laparoscopic- or robot-assisted approach, based on surgeon’s expertise and skills." (Level of Evidence: 2b)
+*   "Robot-assisted and laparoscopic PN are associated with shorter length of hospital stay and lower blood loss compared to open PN." (Level of Evidence: 2b)
 ================================================================================
 
 --- SOURCE DOCUMENTS (Context Used from ChromaDB) ---
 
 [Source 1] File: ESMO Clinical Guideline
-  Content Snippet: "Phase III trial of PD-1 immune checkpoint inhibitors in adjuvant RCC
-Study N Experimental 
-arm
-Primary 
-endpoint
-Risk groups DFS (mo)
-Median (95% CI) 
-HR
-OS (mo.)
-Median (95% CI) 
-HR
-Keynote-564
-NCT03..."
+  Content Snippet: "partial nephrectomy: a multicentre comparative matched-pair analyses with a median of 5 years’ 
+follow-up. BJU Int, 2018. 122: 618.
+https://pubmed.ncbi.nlm.nih.gov/29645344..."
   Full Content:
-Phase III trial of PD-1 immune checkpoint inhibitors in adjuvant RCC
-Study N Experimental 
-arm
-Primary 
-endpoint
-Risk groups DFS (mo)
-Median (95% CI) 
-HR
-OS (mo.)
-Median (95% CI) 
-HR
-Keynote-564
-NCT03142334
-Median follow-up 
-of 30.1 mo. [483]
-994 PEMBRO 200 
-mg IV Q3W 
-(17 cycles) vs.
-placebo
-DFS in the 
-ITT by IR
-Intermediate-
-high: pT2 grade 
-4 or sarcomatoid; 
-pT3 any grade
-High: pT4 any 
-grade, pN1
-M1 NED: cM0 
-after resection of 
-oligometastatic 
-disease < 12 mo.
-(ITT)
-PEMBRO: NR (NE)
-PLACEBO: NR (NE)
-HR: 0.63 (95% CI: 
-0.50-0.80))
-P < 0.002
-DFS at 24 mo.:
-PEMBRO: 78.3%
-PLACEBO: 67.3%
-(ITT)
-PEMBRO: NR (NE)
-PLACEBO: NR (NE)
-HR: 0.52 (95% CI: 
-0.31-0.86)
-not significant
-alive at 30 mo.:
-PEMBRO: 95.7%
-PLACEBO: 91.4%
+partial nephrectomy: a multicentre comparative matched-pair analyses with a median of 5 years’ 
+follow-up. BJU Int, 2018. 122: 618.
+https://pubmed.ncbi.nlm.nih.gov/29645344
 
 [Source 2] File: ESMO Clinical Guideline
-  Content Snippet: "control rate than TKI monotherapies. In phase II trial, ORR of 51 % of combination of erlotinib and bevacizumab 
-[614]. Other trial expressed a favorable response to ICI/TKI combinational therapy comp..."
+  Content Snippet: "single-port approach 34
+    7.1.3.2.8 Off-clamp versus On-clamp PN 34
+    7.1.3.2.9 Surgical volume 34
+    7.1.3.2.10 Pre-operative embolisation prior to partial nephrectomy 34
+   7.1.3.3 Positive sur..."
   Full Content:
-control rate than TKI monotherapies. In phase II trial, ORR of 51 % of combination of erlotinib and bevacizumab 
-[614]. Other trial expressed a favorable response to ICI/TKI combinational therapy comparred to bevacizumab 
-plus erlotinib [92].
-Succinate dehydrogenase (SDH)-deficient RCC has a low risk of metastasis (12 %) with exception of high-grade 
-with risk 70 %. Due to rarity of disease, no evidence for systemic therapy [614].
-Anaplastic lymphoma kinase (ALK)-rearranged RCC, there are some reports of the efficacy of ALK inhibitors, e.g. 
-entrectinib [614]. ELOC (formerly TCEB1)-mutated RCC doesn’t exhibit cinically aggressive behaviour [614]. 
-There is no data that indicates a recommendation for one treatment over another. 
-7.4.4.4 Treatment of hereditary RCC
-7.4.4.4.1 von-Hippel-Lindau-disease-associated RCC
-Patients with VHL disease often develop RCC and tumours and cysts in other organs including adrenal 
-glands, CNS, retinal haemangioblastomas, and pancreas, and commonly undergo several surgical resections 
-in their lifetime. In VHL disease, belzutifan, a HIF-2α inhibitor, has been approved by the US Food and Drug 
-Administration (FDA, August 2021) for the treatment of ccRCC and other neoplasms associated with VHL for
+single-port approach 34
+    7.1.3.2.8 Off-clamp versus On-clamp PN 34
+    7.1.3.2.9 Surgical volume 34
+    7.1.3.2.10 Pre-operative embolisation prior to partial nephrectomy 34
+   7.1.3.3 Positive surgical margins on histopathological specimens 34
+   7.1.3.4  Summary of evidence and recommendations for radical and partial 
+nephrectomy techniques  35
+  7.1.4 Therapeutic approaches as alternatives to surgery  35
+   7.1.4.1 Active surveillance and watchful waiting 35
+   7.1.4.2 Role of renal tumour biopsy before active surveillance 36
+   7.1.4.3 Tumour ablation   36
+    7.1.4.3.1 Role of renal mass biopsy  36
+    7.1.4.3.2 Cryoablation  37
+    7.1.4.3.3 Radiofrequency ablation 37
+    7.1.4.3.4 Microwave ablation 37
+    7.1.4.3.5 Tumour ablation versus surgery 38
+    7.1.4.3.6 Stereotactic ablative radiotherapy 38
 
 [Source 3] File: ESMO Clinical Guideline
-  Content Snippet: "Kettering Cancer Center; NE = non-estimable; NR = not reached; NIVO = nivolumab; OS = overall survival; 
-PEMBRO = pembrolizumab; PFS = profession-free survival; PITT = PFS intention-to-treat; PO = by ..."
+  Content Snippet: "363. Tellini, R., et al. Positive Surgical Margins Predict Progression-free Survival After Nephron-sparing 
+Surgery for Renal Cell Carcinoma: Results From a Single Center Cohort of 459 Cases With a 
+M..."
   Full Content:
-Kettering Cancer Center; NE = non-estimable; NR = not reached; NIVO = nivolumab; OS = overall survival; 
-PEMBRO = pembrolizumab; PFS = profession-free survival; PITT = PFS intention-to-treat; PO = by mouth; 
-Pts = patients; QD = once a day; Q2W = every 2 weeks; Q3W = every 3 weeks; SUN = sunitinib; wk = weeks.
-Patients who stop nivolumab plus ipilimumab because of toxicity require expert guidance and support from a 
-multidisciplinary team before re-challenge can occur (LE: 1). Patients who do not receive the full four doses of 
-ipilimumab due to toxicity should continue on single-agent nivolumab, where safe and feasible (LE: 4).
-Treatment past progression with nivolumab plus ipilimumab can be justified but requires close scrutiny and the 
-support of an expert multidisciplinary team [499, 581] (LE: 1).
-Patients who stop TKI and IO due to immune-related toxicity can receive single-agent TKI once the 
-adverse events has resolved (LE: 1). Adverse event management, including transaminitis and diarrhoea, require 
-particular attention as both agents may be causative. Expert advice should be sought on re-challenge of ICIs 
-after significant toxicity (LE: 4). Treatment past progression on axitinib plus pembrolizumab or nivolumab plus 
-cabozantinib requires careful consideration as it is biologically distinct from treatment past progression on 
-ipilimumab and nivolumab.
-Based on Panel consensus, nivolumab plus ipilimumab, pembrolizumab plus axitinib and nivolumab plus 
-cabozantinib and lenvatinib plus pembrolizumab should be administered in centres with experience of immune 
-combination therapy and appropriate supportive care within the context of a multidisciplinary team (LE: 4).
+363. Tellini, R., et al. Positive Surgical Margins Predict Progression-free Survival After Nephron-sparing 
+Surgery for Renal Cell Carcinoma: Results From a Single Center Cohort of 459 Cases With a 
+Minimum Follow-up of 5 Years. Clin Genitourin Cancer, 2019. 17: e26.
+https://pubmed.ncbi.nlm.nih.gov/30266249
+364. Ryan, S.T., et al. Impact of positive surgical margins on survival after partial nephrectomy in localized 
+kidney cancer: analysis of the National Cancer Database. Minerva Urol Nephrol, 2021. 73: 233.
+https://pubmed.ncbi.nlm.nih.gov/32748614
+365. Kim, S.P ., et al. Treatment of Patients with Positive Margins after Partial Nephrectomy. J Urol, 2016. 
+196: 301.
+https://pubmed.ncbi.nlm.nih.gov/27188474
+366. Antic, T., et al. Partial nephrectomy for renal tumors: lack of correlation between margin status and 
+local recurrence. Am J Clin Pathol, 2015. 143: 645.
+https://pubmed.ncbi.nlm.nih.gov/25873497
+367. Lane, B.R., et al. Active treatment of localized renal tumors may not impact overall survival in patients 
+aged 75 years or older. Cancer, 2010. 116: 3119.
+https://pubmed.ncbi.nlm.nih.gov/20564627
+368. Hollingsworth, J.M., et al. Five-year survival after surgical treatment for kidney cancer: a population-
+based competing risk analysis. Cancer, 2007. 109: 1763.
+https://pubmed.ncbi.nlm.nih.gov/17351954
+369. Campi, R., et al. Impact of frailty on perioperative and oncologic outcomes in patients undergoing 
+surgery or ablation for renal cancer: a systematic review. Minerva Urol Nephrol, 2022. 74: 146.
+https://pubmed.ncbi.nlm.nih.gov/34714036
+370. Volpe, A., et al. The natural history of incidentally detected small renal masses. Cancer, 2004. 100: 
+738.
+https://pubmed.ncbi.nlm.nih.gov/14770429
+371. Zini, L., et al. A population-based comparison of survival after nephrectomy vs nonsurgical 
+management for small renal masses. BJU Int, 2009. 103: 899.
+https://pubmed.ncbi.nlm.nih.gov/19154499
 
 [Source 4] File: ESMO Clinical Guideline
-  Content Snippet: "sunitinib. The primary endpoint population focused on the IMDC intermediate- and poor-risk population where 
-the combination demonstrated an OS benefit (HR: 0.63, 95% CI: 0.44-0.89) which led to regul..."
+  Content Snippet: "344. Antonelli, A., et al. On-clamp versus off-clamp robotic partial nephrectomy: A systematic review and 
+meta-analysis. Urologia, 2019. 86: 52.
+https://pubmed.ncbi.nlm.nih.gov/31179885
+345. Antonell..."
   Full Content:
-sunitinib. The primary endpoint population focused on the IMDC intermediate- and poor-risk population where 
-the combination demonstrated an OS benefit (HR: 0.63, 95% CI: 0.44-0.89) which led to regulatory approval 
-[499] and a paradigm shift in the treatment of mRCC [565] . Results from CheckMate 214 further established 
-that the combination of ipilimumab and nivolumab was associated with higher response rates (RR) (39% in 
-the ITT population), complete RR (8% in the ITT population [central radiology review]) and duration of response 
-compared to sunitinib. Progression-free survival did not achieve the pre-defined endpoint. The exploratory 
-analysis of OS data in the PD-L1-positive population was 0.45 (95% CI: 0.29-0.41).
-A recent update with 60-month data shows ongoing benefits for the immune combination with 
-independently assessed complete response rates of 11% and a HR for OS in the IMDC intermediate- and poor-
-risk group of 0.68 (0.58-0.81) [520]. However, this complete response rate has not been consistent across trials 
-for this combination (the Cosmic313 study showed complete response rates of 3% [566]).
-In CheckMate 214 the 60-months OS probability was 43% for ipilimumab plus nivolumab vs. 31% 
-for sunitinib, respectively [567] . In this update the IMDC good-risk group did not continue to perform better with 
-sunitinib although this effect occurs due to a late overlap of the Kaplan-Meier curves (HR for OS: 0.94 [95% CI: 
-0.65-1.37]) [567]. Nivolumab plus ipilimumab was associated with 46% grade III-IV toxicity and 1.5% treatment-
-related deaths. It should therefore be administered in centres with experience of immune combination therapy 
-and appropriate supportive care within the context of a multidisciplinary team (LE: 4). PD-L1 biomarker is 
-currently not used to select patients for therapy.
-The frequency of steroid use has generated controversy and further analysis, as well as real world
+344. Antonelli, A., et al. On-clamp versus off-clamp robotic partial nephrectomy: A systematic review and 
+meta-analysis. Urologia, 2019. 86: 52.
+https://pubmed.ncbi.nlm.nih.gov/31179885
+345. Antonelli, A., et al. Is off-clamp robot-assisted partial nephrectomy beneficial for renal function? Data 
+from the CLOCK trial. BJU Int, 2022. 129: 217.
+https://pubmed.ncbi.nlm.nih.gov/34086393
+346. Cignoli, D., et al. Risks and benefits of partial nephrectomy performed with limited or with zero 
+ischaemia time. BJU Int, 2023. 132: 283.
+https://pubmed.ncbi.nlm.nih.gov/36932928
+347. Sharma, G., et al. Off-clamp Versus On-clamp Robot-assisted Partial Nephrectomy: A Propensity-
+matched Analysis. Eur Urol Oncol, 2023.
+https://pubmed.ncbi.nlm.nih.gov/37193626
+348. Mellouki, A., et al. Evaluation of oncological outcomes of robotic partial nephrectomy according 
+to the type of hilar control approach (On-clamp vs Off-clamp), a multicentric study of the French 
+network of research on kidney cancer-UROCCR 58-NCT03293563. World J Urol, 2023. 41: 287.
+https://pubmed.ncbi.nlm.nih.gov/33606044
+349. Arora, S., et al. What is the hospital volume threshold to optimize inpatient complication rate after 
+partial nephrectomy? Urol Oncol, 2018. 36: 339 e17.
+https://pubmed.ncbi.nlm.nih.gov/29773492
+350. Xia, L., et al. Hospital volume and outcomes of robot-assisted partial nephrectomy. BJU Int, 2018. 
+121: 900.
+https://pubmed.ncbi.nlm.nih.gov/29232025
+351. Peyronnet, B., et al. Impact of hospital volume and surgeon volume on robot-assisted partial 
+nephrectomy outcomes: a multicentre study. BJU Int, 2018. 121: 916.
+https://pubmed.ncbi.nlm.nih.gov/29504226
+352. Schiavina, R., et al. Predicting positive surgical margins in partial nephrectomy: A prospective 
+multicentre observational study (the RECORd 2 project). Eur J Surg Oncol, 2020. 46: 1353.
+https://pubmed.ncbi.nlm.nih.gov/32007380
+353. Shanmugasundaram, S., et al. Preoperative embolization of renal cell carcinoma prior to partial
 
 [Source 5] File: ESMO Clinical Guideline
-  Content Snippet: "was associated with higher rates of progression but no detrimental effect was seen on OS [558] . Intermittent 
-therapy has not been tested with VEFG/PD-1 combinations, therefore its application in the..."
+  Content Snippet: "review. BMC Urol, 2014. 14: 75.
+https://pubmed.ncbi.nlm.nih.gov/25234265
+317. Soga, N., et al. Comparison of radical nephrectomy techniques in one center: minimal incision 
+portless endoscopic surgery..."
   Full Content:
-was associated with higher rates of progression but no detrimental effect was seen on OS [558] . Intermittent 
-therapy has not been tested with VEFG/PD-1 combinations, therefore its application in the modern 1st line 
-setting is unknown, but extrapolation suggests it should be safe.
+review. BMC Urol, 2014. 14: 75.
+https://pubmed.ncbi.nlm.nih.gov/25234265
+317. Soga, N., et al. Comparison of radical nephrectomy techniques in one center: minimal incision 
+portless endoscopic surgery versus laparoscopic surgery. Int J Urol, 2008. 15: 1018.
+https://pubmed.ncbi.nlm.nih.gov/19138194
+318. Park, Y.H., et al. Comparison of laparoendoscopic single-site radical nephrectomy with conventional 
+laparoscopic radical nephrectomy for localized renal-cell carcinoma. J Endourol, 2010. 24: 997.
+https://pubmed.ncbi.nlm.nih.gov/20370595
 
 [Source 6] File: ESMO Clinical Guideline
-  Content Snippet: "Cell Tumor.Sci Rep. 2019;9(1):14551.
-90. Gelderblom H, Cropet C, Chevreau C, et al. Nilotinib in locally
-advanced pigmented villonodular synovitis: a multicentre, open-label,
-single-arm, phase 2 trial..."
+  Content Snippet: "Radical Nephrectomy for Clinical Stage T1 Renal Cell Carcinoma Pathologically Up Staged to T3a. J 
+Urol, 2017. 198: 289.
+https://pubmed.ncbi.nlm.nih.gov/28274620
+290. Liu, H., et al. A meta-analysis f..."
   Full Content:
-Cell Tumor.Sci Rep. 2019;9(1):14551.
-90. Gelderblom H, Cropet C, Chevreau C, et al. Nilotinib in locally
-advanced pigmented villonodular synovitis: a multicentre, open-label,
-single-arm, phase 2 trial.Lancet Oncol. 2018;19(5):639-648.
-91. Shi Y , Cai Q, Jiang Y , et al. Activity and safety of geptanolimab (GB226)
-for patients with unresectable, recurrent, or metastatic alveolar soft
-part sarcoma: a phase II, single-arm study. Clin Cancer Res .
-2020;26(24):6445-6452.
-92. Florou V, Rosenberg AE, Wieder E, et al. Angiosarcoma patients treated
-with immune checkpoint inhibitors: a case series of seven patients from
-a single institution.J Immunother Cancer. 2019;7(1):213.
-93. Tap WD, Gelderblom H, Palmerini E, et al. Pexidartinib versus placebo
-for advanced tenosynovial giant cell tumour (ENLIVEN): a randomised
-phase 3 trial.Lancet. 2019;394(10197):478-487.
-94. Mir O, Brodowicz T, Italiano A, et al. Safety and efﬁcacy of regorafenib
-in patients with advanced soft tissue sarcoma (REGOSARC): a rand-
-omised, double-blind, placebo-controlled, phase 2 trial.Lancet Oncol.
-2016;17(12):1732-1742.
-95. Penel N, Mir O, Wallet J, et al. A double-blind placebo-controlled
-randomized phase II trial assessing the activity and safety of regor-
-afenib in non-adipocytic sarcoma patients previously treated with
-both chemotherapy and pazopanib.Eur J Cancer. 2020;126:45-55.
-96. Gross AM, Wolters PL, Dombi E, et al. Selumetinib in children with
-inoperable plexiform neuroﬁbromas. N Engl J Med. 2020;382(15):
-1430-1442.
-97. Stacchiotti S, Simeone N, Lo Vullo S, et al. Activity of sirolimus in
-patients with progressive epithelioid hemangioendothelioma: a case-
-series analysis within the Italian Rare Cancer Network. Cancer.
-2021;127(4):569-576.
-98. Sanﬁlippo R, Jones RL, Blay JY , et al. Role of chemotherapy, VEGFR
-inhibitors, and mTOR inhibitors in advanced perivascular epithelioid
-cell tumors (PEComas).Clin Cancer Res. 2019;25(17):5295-5300.
+Radical Nephrectomy for Clinical Stage T1 Renal Cell Carcinoma Pathologically Up Staged to T3a. J 
+Urol, 2017. 198: 289.
+https://pubmed.ncbi.nlm.nih.gov/28274620
+290. Liu, H., et al. A meta-analysis for comparison of partial nephrectomy vs. radical nephrectomy in 
+patients with pT3a renal cell carcinoma. Transl Androl Urol, 2021. 10: 1170.
+https://pubmed.ncbi.nlm.nih.gov/33850752
+291. Lane, B.R., et al. Management of the adrenal gland during partial nephrectomy. J Urol, 2009. 181: 
+2430.
+https://pubmed.ncbi.nlm.nih.gov/19371896
+292. Bekema, H.J., et al. Systematic review of adrenalectomy and lymph node dissection in locally 
+advanced renal cell carcinoma. Eur Urol, 2013. 64: 799.
+https://pubmed.ncbi.nlm.nih.gov/23643550
+293. Blom, J.H., et al. Radical nephrectomy with and without lymph-node dissection: final results of 
+European Organization for Research and Treatment of Cancer (EORTC) randomized phase 3 trial 
+30881. Eur Urol, 2009. 55: 28.
+https://pubmed.ncbi.nlm.nih.gov/18848382
+294. Capitanio, U., et al. Lymph node dissection in renal cell carcinoma. Eur Urol, 2011. 60: 1212.
+https://pubmed.ncbi.nlm.nih.gov/21940096
+295. Gershman, B., et al. Radical Nephrectomy with or without Lymph Node Dissection for High Risk 
+Nonmetastatic Renal Cell Carcinoma: A Multi-Institutional Analysis. J Urol, 2018. 199: 1143.
+https://pubmed.ncbi.nlm.nih.gov/29225056
+296. Kim S, T.H., Weight C, et al. . The relationship of lymph node dissection with recurrence and survival 
+for patients treated with nephrectomy for high-risk renal cell carcinoma. . J Urol, 2012. 187: e233.
+https://www.auajournals.org/doi/10.1016/j.juro.2012.02.649
+297. Dimashkieh, H.H., et al. Extranodal extension in regional lymph nodes is associated with outcome in 
+patients with renal cell carcinoma. J Urol, 2006. 176: 1978.
+https://pubmed.ncbi.nlm.nih.gov/17070225
+298. Terrone, C., et al. Reassessing the current TNM lymph node staging for renal cell carcinoma. Eur Urol, 
+2006. 49: 324.
 
 [Source 7] File: ESMO Clinical Guideline
-  Content Snippet: "RENAL CELL CARCINOMA - LIMITED UPDATE MARCH 2024
-60
-7.4.4.1.3.1 Summary of evidence and recommendation for targeted therapy in RCC with sarcomatoid features
-Summary of evidence LE
-Immune checkpoint in..."
+  Content Snippet: "cases. Patients with PSMs should be informed that they will need a more intense surveillance (imaging) follow-
+up and that they are at increased risk of secondary local therapies [360, 365] . On the o..."
   Full Content:
-RENAL CELL CARCINOMA - LIMITED UPDATE MARCH 2024
-60
-7.4.4.1.3.1 Summary of evidence and recommendation for targeted therapy in RCC with sarcomatoid features
+cases. Patients with PSMs should be informed that they will need a more intense surveillance (imaging) follow-
+up and that they are at increased risk of secondary local therapies [360, 365] . On the other hand, protection 
+from recurrence is not ensured by negative surgical margins [366] as it is reported in up to 1.5% of cases in this 
+category of patients [354]. 
+7.1.3.4 Summary of evidence and recommendations for radical and partial nephrectomy techniques
 Summary of evidence LE
-Immune checkpoint inhibitor combination therapy is superior to sunitinib in terms of PFS and OS in trial 
-subset analysis of clear-cell RCC with sarcomatoid features.
-2a
-Recommendation Strength rating
-Offer immune checkpoint inhibitor combination therapy for advanced clear cell metastatic 
-renal carcinoma with sarcomatoid features.
-Weak
-7.4.4.2 Treatment of patients with non-clear-cell metastatic RCC (general considerations)
-For the sake of historical purposes, the Panel recognises the use of Non-cc-mRCC but will where possible refer 
-to the distinct subtype. This is a heterogenous group including papillary, chromophobe and other rare tumours 
-with a widely differing tumour biology. Patients with non-cc-mRCC should therefore be referred to a clinical trial, 
-where appropriate.While no phase III trials of patients with non-cc-mRCC have been reported it is increasingly 
-recognised to study specific subtypes which have a higher incidence than other non-ccRCC. As papillary RCC 
-(pRCC) comprise the majority of tumours defined as non-ccRCC, most of the evidence is available for this 
-subtype, either from trials specifically selecting pRCC or having included a high percentage.
-7.4.4.2.1 Treatment of patients with papillary metastatic RCC
-There are small single-arm trials for sunitinib and everolimus [593-597]. Both these agents have been widely given 
-in pRCC, but more recent data suggests cabozantinib and other combinations may be preferable [598, 599].
-For pRCC new evidence is available from the SWOG PAPMET randomised phase II trial which compared 
-sunitinib to cabozantinib, crizotinib and savolitinib in 152 patients with papillary mRCC [598]. Progression- free 
-survival was longer in patients in the cabozantinib group (median 9.0 months, 95% CI: 6-12) than in the sunitinib
+Laparoscopic RN has lower morbidity than open nephrectomy. 1b
+Short-term oncological outcomes for T1-T2a tumours are equivalent for laparoscopic- and open RN. 2a
+Partial nephrectomy can be performed, either by open-, pure laparoscopic- or robot-assisted approach, 
+based on surgeon’s expertise and skills.
+2b
+Robot-assisted and laparoscopic PN are associated with shorter length of hospital stay and lower 
+blood loss compared to open PN.
+2b
 
 [Source 8] File: ESMO Clinical Guideline
-  Content Snippet: "subset analyses, and are too small for definitive conclusions [560, 584].
-The use of mTOR inhibitors can be considered in VEGF-targeted therapy refractory disease but has been 
-outperformed by other V..."
+  Content Snippet: "https://pubmed.ncbi.nlm.nih.gov/36396584
+637. Martini, A., et al. Salvage Robot-assisted Renal Surgery for Local Recurrence After Surgical Resection 
+or Renal Mass Ablation: Classification, Techniques..."
   Full Content:
-subset analyses, and are too small for definitive conclusions [560, 584].
-The use of mTOR inhibitors can be considered in VEGF-targeted therapy refractory disease but has been 
-outperformed by other VEGF-targeted therapies in mRCC and belzutifan [585]. Drug choice in the third-line 
-setting, after immune checkpoint inhibitor combinations and subsequent VEGF-targeted therapy, is unknown. 
-The Panel recommends a subsequent agent which is approved in VEGF-refractory disease, with the exception of 
-re-challenge with immune checkpoint blockade. Cabozantinib is the only agent in VEGF-refractory disease with 
-RCT data showing a survival advantage and should be used preferentially [518]. Axitinib has positive PFS data 
-in VEGF- refractory disease. Both sorafenib and everolimus have been outperformed by other agents in VEGF-
-refractory disease and are therefore less attractive [585] . The lenvatinib plus everolimus combination appears 
-superior to everolimus alone and has been granted EMA regulatory approval based on randomised phase II data. 
-This is an alternative despite the availability of phase II data only [548]. As shown in a study which also included 
-patients on ICIs, tivozanib provides PFS superiority over sorafenib in VEGF-refractory disease [586].
-7.4.4.1.2 Summary of evidence and recommendations for immunotherapy in cc-mRCC
-Summary of evidence LE
-Treatment-naïve patients
-Currently, PD-L1 expression is not used for patient selection. 2b
-The combination of nivolumab and ipilimumab in treatment-naïve patients with cc-mRCC of IMDC 
-intermediate- and poor risk demonstrated OS and ORR benefits compared to sunitinib alone.
-1b
-The combination of pembrolizumab plus axitinib, lenvatinib plus pembrolizumab and nivolumab plus 
-cabozantinib in treatment-naïve patients with cc-mRCC demonstrated PFS, OS and ORR benefits 
-compared to sunitinib in the ITT population.
-1b
-The combination of pembrolizumab plus axitinib, lenvatinib plus pembrolizumab and nivolumab plus
+https://pubmed.ncbi.nlm.nih.gov/36396584
+637. Martini, A., et al. Salvage Robot-assisted Renal Surgery for Local Recurrence After Surgical Resection 
+or Renal Mass Ablation: Classification, Techniques, and Clinical Outcomes. Eur Urol, 2021. 80: 730.
+https://pubmed.ncbi.nlm.nih.gov/34088520
+638. Ierardi, A.M., et al. Percutaneous microwave ablation therapy of renal cancer local relapse after 
+radical nephrectomy: a feasibility and efficacy study. Med Oncol, 2020. 37: 27.
+https://pubmed.ncbi.nlm.nih.gov/32166412
